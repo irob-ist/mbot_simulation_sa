@@ -32,6 +32,7 @@ packagelist=(
     ros-${DISTRO}-controller-manager
     ros-${DISTRO}-controller-manager-msgs
     ros-${DISTRO}-ridgeback-gazebo-plugins
+    ros-${DISTRO}-effort-controllers
 )
 
 ### Install debian packages listed in array above
